@@ -1,0 +1,3 @@
+aisuite[ollama]
+Jinja2
+pandas
